@@ -4,11 +4,8 @@ EC535 Embedded Systems (Spring 2019) Boston University
 ## Implementation of code files
 The following code files need to be implemented to run the EmKG project for class EC535
 Introduction to Embedded Systems (Spring 2019) at Boston University.
-Arduino
 - ADC.ino
-Gumstix
 - mypulse.c
-LCD
 - main.cpp
 - digitalclock.cpp
 - digitalclock.h
